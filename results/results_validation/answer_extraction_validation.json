@@ -1,0 +1,424 @@
+{
+  "summary": {
+    "total": 40,
+    "extraction_is_number": 40,
+    "gt_is_number": 38,
+    "matches_gt": 20,
+    "extraction_accuracy": 0.5
+  },
+  "validation": [
+    {
+      "idx": 81,
+      "correct": true,
+      "extracted": "595",
+      "gt": "595",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 15,
+      "correct": true,
+      "extracted": "520",
+      "gt": "520",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 193,
+      "correct": true,
+      "extracted": "45",
+      "gt": "45",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 170,
+      "correct": true,
+      "extracted": "12",
+      "gt": "12",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 152,
+      "correct": true,
+      "extracted": "5",
+      "gt": "5",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 96,
+      "correct": true,
+      "extracted": "8",
+      "gt": "8",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 74,
+      "correct": true,
+      "extracted": "20",
+      "gt": "20",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 65,
+      "correct": true,
+      "extracted": "6",
+      "gt": "6",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 278,
+      "correct": true,
+      "extracted": "21.",
+      "gt": "21",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 23,
+      "correct": true,
+      "extracted": "205",
+      "gt": "205",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 19,
+      "correct": true,
+      "extracted": "15",
+      "gt": "15",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 68,
+      "correct": true,
+      "extracted": "19",
+      "gt": "19",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 148,
+      "correct": true,
+      "extracted": "420",
+      "gt": "420",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 158,
+      "correct": true,
+      "extracted": "15",
+      "gt": "15",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 320,
+      "correct": true,
+      "extracted": "1728",
+      "gt": "1728",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 16,
+      "correct": true,
+      "extracted": "62",
+      "gt": "62",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 135,
+      "correct": true,
+      "extracted": "163",
+      "gt": "163",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 276,
+      "correct": true,
+      "extracted": "23.",
+      "gt": "23",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 149,
+      "correct": true,
+      "extracted": "15",
+      "gt": "15",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 291,
+      "correct": true,
+      "extracted": "140.",
+      "gt": "140",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": true,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 150,
+      "correct": false,
+      "extracted": "6",
+      "gt": "30",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 53,
+      "correct": false,
+      "extracted": "48",
+      "gt": "8",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 189,
+      "correct": false,
+      "extracted": "16",
+      "gt": "12",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 199,
+      "correct": false,
+      "extracted": "27",
+      "gt": "45",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 0,
+      "correct": false,
+      "extracted": "19",
+      "gt": "525",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 181,
+      "correct": false,
+      "extracted": "0",
+      "gt": "75",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 213,
+      "correct": false,
+      "extracted": "2",
+      "gt": "3x^2",
+      "is_number": true,
+      "gt_is_number": false,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 31,
+      "correct": false,
+      "extracted": "450",
+      "gt": "36",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 169,
+      "correct": false,
+      "extracted": "4",
+      "gt": "6",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 104,
+      "correct": false,
+      "extracted": "4",
+      "gt": "7",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 70,
+      "correct": false,
+      "extracted": "4",
+      "gt": "4000",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 229,
+      "correct": false,
+      "extracted": "000.",
+      "gt": "100000",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 29,
+      "correct": false,
+      "extracted": "50",
+      "gt": "10",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 44,
+      "correct": false,
+      "extracted": "20",
+      "gt": "16",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 212,
+      "correct": false,
+      "extracted": "2",
+      "gt": "5\\sqrt{2}",
+      "is_number": true,
+      "gt_is_number": false,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 22,
+      "correct": false,
+      "extracted": "2",
+      "gt": "1",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 21,
+      "correct": false,
+      "extracted": "4",
+      "gt": "500",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 95,
+      "correct": false,
+      "extracted": "5",
+      "gt": "15",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 175,
+      "correct": false,
+      "extracted": "2",
+      "gt": "168",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    },
+    {
+      "idx": 77,
+      "correct": false,
+      "extracted": "000",
+      "gt": "25000",
+      "is_number": true,
+      "gt_is_number": true,
+      "matches_gt": false,
+      "extraction_method": "regex"
+    }
+  ],
+  "extraction_errors": [],
+  "gt_format_errors": [
+    {
+      "idx": 213,
+      "gt": "3x^2",
+      "type": "gt_not_number"
+    },
+    {
+      "idx": 212,
+      "gt": "5\\sqrt{2}",
+      "type": "gt_not_number"
+    }
+  ]
+}
