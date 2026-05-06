@@ -1,0 +1,7 @@
+torch>=2.0.0
+transformers>=4.36.0
+vllm>=0.4.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+requests>=2.28.0
+scipy>=1.10.0
