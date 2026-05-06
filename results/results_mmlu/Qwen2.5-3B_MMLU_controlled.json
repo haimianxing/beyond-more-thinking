@@ -1,0 +1,5423 @@
+{
+  "Base-256": {
+    "accuracy": 35.0,
+    "truncation_rate": 72.0,
+    "avg_tokens": 218.41,
+    "details": [
+      {
+        "idx": 0,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 1,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 2,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 3,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 4,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 5,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 66,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 6,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 161,
+        "truncated": false,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 7,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 8,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 9,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 60,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 10,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 65,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 11,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 12,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 13,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 14,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 52,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 15,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 43,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 16,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 214,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 17,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 18,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 19,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 20,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 38,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 21,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 22,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 211,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 23,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 24,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 25,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 26,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 27,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 28,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 29,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 30,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 31,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 32,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 33,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 34,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 35,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 73,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 36,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 37,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 38,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 39,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 40,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 41,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 42,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 43,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 44,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 45,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 48,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 46,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 70,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 47,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 48,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 49,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 50,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 51,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 52,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 59,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 53,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 54,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 232,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 55,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 56,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 57,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 58,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 59,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_physics"
+      },
+      {
+        "idx": 60,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 61,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 62,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 212,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 63,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 53,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 64,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 115,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 65,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 66,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 35,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 67,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 68,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 185,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 69,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 193,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 70,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 111,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 71,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 72,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 73,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 74,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 75,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 76,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 76,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 77,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 78,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 79,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 80,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 81,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 82,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 45,
+        "truncated": false,
+        "subject": "college_physics"
+      },
+      {
+        "idx": 83,
+        "pred": "C",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 84,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 85,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 86,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 87,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 88,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 89,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 90,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 91,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 156,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 92,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 93,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 94,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 95,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 225,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 96,
+        "pred": "C",
+        "gt": "A",
+        "correct": false,
+        "tokens": 38,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 97,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 186,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 98,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 99,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 100,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 101,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 102,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 103,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 185,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 104,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 105,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 106,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 158,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 107,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 69,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 108,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 109,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 38,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 110,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 35,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 111,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 112,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 113,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 114,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 115,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 116,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 117,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 118,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 119,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 120,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 142,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 121,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 122,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 28,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 123,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 124,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 125,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 144,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 126,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 147,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 127,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 159,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 128,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 129,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 130,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 131,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 132,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 228,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 133,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 134,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 135,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 38,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 136,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 45,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 137,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 138,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 139,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 140,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 141,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 142,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 143,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 144,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 145,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 146,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 241,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 147,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 148,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 149,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 252,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 150,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 198,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 151,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 152,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 153,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 154,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 106,
+        "truncated": false,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 155,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 54,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 156,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 232,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 157,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_physics"
+      },
+      {
+        "idx": 158,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 159,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 160,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 161,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 162,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 157,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 163,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 183,
+        "truncated": false,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 164,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 165,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 166,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 167,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 168,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 169,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 170,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 84,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 171,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 172,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 173,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 174,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 175,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 61,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 176,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 202,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 177,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 37,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 178,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 40,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 179,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 180,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 181,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 182,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 183,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 184,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 185,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 186,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 187,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 188,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 189,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 218,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 190,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 139,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 191,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 192,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 193,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 176,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 194,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 195,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 196,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 197,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 198,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 199,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 256,
+        "truncated": true,
+        "subject": "virology"
+      }
+    ]
+  },
+  "Base-512": {
+    "accuracy": 48.0,
+    "truncation_rate": 56.00000000000001,
+    "avg_tokens": 378.51,
+    "details": [
+      {
+        "idx": 0,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 309,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 1,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 2,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 3,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 4,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 5,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 66,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 6,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 161,
+        "truncated": false,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 7,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 8,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 332,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 9,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 60,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 10,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 65,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 11,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 12,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 13,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 503,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 14,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 52,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 15,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 43,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 16,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 214,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 17,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 384,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 18,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 19,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 282,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 20,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 38,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 21,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 22,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 211,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 23,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 24,
+        "pred": "C",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 25,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 321,
+        "truncated": false,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 26,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 27,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 437,
+        "truncated": false,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 28,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 29,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 30,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 31,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 476,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 32,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 33,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 34,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 35,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 73,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 36,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 425,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 37,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 313,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 38,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 39,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 40,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 41,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 42,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 43,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 44,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 45,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 48,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 46,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 70,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 47,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 257,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 48,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 49,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 50,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 51,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 52,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 59,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 53,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 54,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 232,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 55,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 385,
+        "truncated": false,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 56,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 57,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 58,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 59,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_physics"
+      },
+      {
+        "idx": 60,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 275,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 61,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 62,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 212,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 63,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 53,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 64,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 115,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 65,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 66,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 35,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 67,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 68,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 185,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 69,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 193,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 70,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 111,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 71,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 72,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 73,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 74,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 75,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 281,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 76,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 76,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 77,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 78,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 377,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 79,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 80,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 81,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 307,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 82,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 45,
+        "truncated": false,
+        "subject": "college_physics"
+      },
+      {
+        "idx": 83,
+        "pred": "C",
+        "gt": "A",
+        "correct": false,
+        "tokens": 383,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 84,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 85,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 316,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 86,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 458,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 87,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 88,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 89,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 423,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 90,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 91,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 156,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 92,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 93,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 94,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 262,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 95,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 225,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 96,
+        "pred": "C",
+        "gt": "A",
+        "correct": false,
+        "tokens": 38,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 97,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 186,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 98,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 99,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 100,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 388,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 101,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 102,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 354,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 103,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 185,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 104,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 105,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 106,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 158,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 107,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 69,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 108,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 109,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 38,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 110,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 35,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 111,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 112,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 262,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 113,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 114,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 419,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 115,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 116,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 117,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 262,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 118,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 119,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 120,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 142,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 121,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 122,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 28,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 123,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 124,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 125,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 144,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 126,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 147,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 127,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 159,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 128,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 129,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 130,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 131,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 132,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 228,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 133,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 134,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 135,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 38,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 136,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 45,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 137,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 138,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 363,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 139,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 140,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 141,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 142,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 143,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 144,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 145,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 146,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 241,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 147,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 148,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 149,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 252,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 150,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 198,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 151,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 385,
+        "truncated": false,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 152,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 153,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 477,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 154,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 106,
+        "truncated": false,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 155,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 54,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 156,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 232,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 157,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_physics"
+      },
+      {
+        "idx": 158,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 159,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 160,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 161,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 162,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 157,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 163,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 183,
+        "truncated": false,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 164,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 165,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 166,
+        "pred": "C",
+        "gt": "A",
+        "correct": false,
+        "tokens": 439,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 167,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 168,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 169,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 170,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 84,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 171,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 172,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 173,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 174,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 175,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 61,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 176,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 202,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 177,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 37,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 178,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 40,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 179,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 180,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 181,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 182,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 183,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 184,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 185,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 186,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 187,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 188,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 189,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 218,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 190,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 139,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 191,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 414,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 192,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 511,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 193,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 176,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 194,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 195,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "virology"
+      },
+      {
+        "idx": 196,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 197,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 198,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 199,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 272,
+        "truncated": false,
+        "subject": "virology"
+      }
+    ]
+  },
+  "CoT-512": {
+    "accuracy": 56.49999999999999,
+    "truncation_rate": 18.5,
+    "avg_tokens": 249.91,
+    "details": [
+      {
+        "idx": 0,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 1,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 88,
+        "truncated": false,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 2,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 42,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 3,
+        "pred": "C",
+        "gt": "A",
+        "correct": false,
+        "tokens": 102,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 4,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 51,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 5,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 60,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 6,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 227,
+        "truncated": false,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 7,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 347,
+        "truncated": false,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 8,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 250,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 9,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 69,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 10,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 11,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 370,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 12,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 450,
+        "truncated": false,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 13,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 14,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 57,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 15,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 230,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 16,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 249,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 17,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 39,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 18,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 19,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 283,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 20,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 21,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 262,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 22,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 74,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 23,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 51,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 24,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 389,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 25,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 26,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 70,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 27,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 257,
+        "truncated": false,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 28,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 336,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 29,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 51,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 30,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 219,
+        "truncated": false,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 31,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 193,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 32,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 38,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 33,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 218,
+        "truncated": false,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 34,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 203,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 35,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 52,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 36,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 449,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 37,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 355,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 38,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 39,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 40,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 483,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 41,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 53,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 42,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 196,
+        "truncated": false,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 43,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 62,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 44,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 45,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 48,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 46,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 86,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 47,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 83,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 48,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 49,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 369,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 50,
+        "pred": "C",
+        "gt": "A",
+        "correct": false,
+        "tokens": 428,
+        "truncated": false,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 51,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 52,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 68,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 53,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 131,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 54,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 73,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 55,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 184,
+        "truncated": false,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 56,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 136,
+        "truncated": false,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 57,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 197,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 58,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 451,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 59,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 251,
+        "truncated": false,
+        "subject": "college_physics"
+      },
+      {
+        "idx": 60,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 327,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 61,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 212,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 62,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 66,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 63,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 50,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 64,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 91,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 65,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 323,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 66,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 36,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 67,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 377,
+        "truncated": false,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 68,
+        "pred": "C",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 69,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 74,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 70,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 57,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 71,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 448,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 72,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 103,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 73,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 74,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 75,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 357,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 76,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 90,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 77,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 281,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 78,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 79,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 82,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 80,
+        "pred": "B",
+        "gt": "C",
+        "correct": false,
+        "tokens": 58,
+        "truncated": false,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 81,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 46,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 82,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 60,
+        "truncated": false,
+        "subject": "college_physics"
+      },
+      {
+        "idx": 83,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 316,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 84,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 41,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 85,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 159,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 86,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 87,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 88,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 89,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 25,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 90,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 189,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 91,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 277,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 92,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 79,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 93,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 78,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 94,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 138,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 95,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 130,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 96,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 54,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 97,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 64,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 98,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 163,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 99,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 100,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 33,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 101,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 240,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 102,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 336,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 103,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 104,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 58,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 105,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 303,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 106,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 462,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 107,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 108,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 109,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 24,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 110,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 277,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 111,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 112,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 113,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 70,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 114,
+        "pred": "B",
+        "gt": "D",
+        "correct": false,
+        "tokens": 415,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 115,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 406,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 116,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 62,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 117,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 341,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 118,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 34,
+        "truncated": false,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 119,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 445,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 120,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 314,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 121,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 127,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 122,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 26,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 123,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 178,
+        "truncated": false,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 124,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 330,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 125,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 230,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 126,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 35,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 127,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 47,
+        "truncated": false,
+        "subject": "anatomy"
+      },
+      {
+        "idx": 128,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 429,
+        "truncated": false,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 129,
+        "pred": "D",
+        "gt": "C",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 130,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 95,
+        "truncated": false,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 131,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 128,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 132,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 295,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 133,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 300,
+        "truncated": false,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 134,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 321,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 135,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 39,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 136,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 48,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 137,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 54,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 138,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 139,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 140,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 132,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 141,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 63,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 142,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 301,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 143,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 276,
+        "truncated": false,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 144,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 243,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 145,
+        "pred": "C",
+        "gt": "D",
+        "correct": false,
+        "tokens": 226,
+        "truncated": false,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 146,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 199,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 147,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 119,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 148,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 43,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 149,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 486,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 150,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 100,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 151,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 383,
+        "truncated": false,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 152,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 177,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 153,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 154,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 176,
+        "truncated": false,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 155,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 35,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 156,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 213,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 157,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_physics"
+      },
+      {
+        "idx": 158,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 384,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 159,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 415,
+        "truncated": false,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 160,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 243,
+        "truncated": false,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 161,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 110,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 162,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 325,
+        "truncated": false,
+        "subject": "medical_genetics"
+      },
+      {
+        "idx": 163,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 155,
+        "truncated": false,
+        "subject": "machine_learning"
+      },
+      {
+        "idx": 164,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 187,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 165,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 343,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 166,
+        "pred": "C",
+        "gt": "A",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 167,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 146,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 168,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 347,
+        "truncated": false,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 169,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 208,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 170,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 171,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 100,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 172,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "abstract_algebra"
+      },
+      {
+        "idx": 173,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 52,
+        "truncated": false,
+        "subject": "college_chemistry"
+      },
+      {
+        "idx": 174,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 129,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 175,
+        "pred": "A",
+        "gt": "C",
+        "correct": false,
+        "tokens": 44,
+        "truncated": false,
+        "subject": "electrical_engineering"
+      },
+      {
+        "idx": 176,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 236,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 177,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 277,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 178,
+        "pred": "D",
+        "gt": "A",
+        "correct": false,
+        "tokens": 31,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 179,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 231,
+        "truncated": false,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 180,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 181,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "astronomy"
+      },
+      {
+        "idx": 182,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 274,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 183,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 277,
+        "truncated": false,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 184,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "college_computer_science"
+      },
+      {
+        "idx": 185,
+        "pred": "C",
+        "gt": "B",
+        "correct": false,
+        "tokens": 209,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 186,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 103,
+        "truncated": false,
+        "subject": "high_school_mathematics"
+      },
+      {
+        "idx": 187,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 222,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 188,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 440,
+        "truncated": false,
+        "subject": "college_mathematics"
+      },
+      {
+        "idx": 189,
+        "pred": "A",
+        "gt": "B",
+        "correct": false,
+        "tokens": 25,
+        "truncated": false,
+        "subject": "conceptual_physics"
+      },
+      {
+        "idx": 190,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 334,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 191,
+        "pred": "B",
+        "gt": "A",
+        "correct": false,
+        "tokens": 155,
+        "truncated": false,
+        "subject": "high_school_statistics"
+      },
+      {
+        "idx": 192,
+        "pred": "A",
+        "gt": "A",
+        "correct": true,
+        "tokens": 45,
+        "truncated": false,
+        "subject": "high_school_chemistry"
+      },
+      {
+        "idx": 193,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 194,
+        "pred": "D",
+        "gt": "D",
+        "correct": true,
+        "tokens": 384,
+        "truncated": false,
+        "subject": "high_school_physics"
+      },
+      {
+        "idx": 195,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 315,
+        "truncated": false,
+        "subject": "virology"
+      },
+      {
+        "idx": 196,
+        "pred": "A",
+        "gt": "D",
+        "correct": false,
+        "tokens": 54,
+        "truncated": false,
+        "subject": "computer_security"
+      },
+      {
+        "idx": 197,
+        "pred": "D",
+        "gt": "B",
+        "correct": false,
+        "tokens": 512,
+        "truncated": true,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 198,
+        "pred": "C",
+        "gt": "C",
+        "correct": true,
+        "tokens": 43,
+        "truncated": false,
+        "subject": "elementary_mathematics"
+      },
+      {
+        "idx": 199,
+        "pred": "B",
+        "gt": "B",
+        "correct": true,
+        "tokens": 240,
+        "truncated": false,
+        "subject": "virology"
+      }
+    ]
+  }
+}
