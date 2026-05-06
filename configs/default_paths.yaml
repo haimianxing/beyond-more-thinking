@@ -1,0 +1,31 @@
+# Path configuration template
+# Copy this file to local_paths.yaml and fill in your local paths.
+
+models:
+  # Model directories — download from HuggingFace (see README.md)
+  Qwen2.5-0.5B-Instruct: /path/to/Qwen2.5-0.5B-Instruct
+  Qwen2.5-1.5B-Instruct: /path/to/Qwen2.5-1.5B-Instruct
+  Qwen2.5-3B-Instruct: /path/to/Qwen2.5-3B-Instruct
+  Qwen2.5-7B-Instruct: /path/to/Qwen2.5-7B-Instruct
+  Qwen2.5-14B-Instruct: /path/to/Qwen2.5-14B-Instruct
+  Qwen2.5-0.5B-Base: /path/to/Qwen2.5-0.5B
+  Qwen2.5-1.5B-Base: /path/to/Qwen2.5-1.5B
+  Qwen2.5-3B-Base: /path/to/Qwen2.5-3B
+  Qwen2.5-7B-Base: /path/to/Qwen2.5-7B
+  Qwen2-1.5B-Instruct: /path/to/Qwen2-1.5B-Instruct
+  Qwen2-7B-Instruct: /path/to/Qwen2-7B-Instruct
+  Qwen3-4B: /path/to/Qwen3-4B
+  Qwen3-8B: /path/to/Qwen3-8B
+  Llama-3-8B-Instruct: /path/to/Meta-Llama-3-8B-Instruct
+  Gemma-2-9B-IT: /path/to/gemma-2-9b-it
+  Gemma-2-2B-IT: /path/to/gemma-2-2b-it
+
+data:
+  # Evaluation data — download from sources listed in README.md
+  math_200: /path/to/math_real_200.json
+  gsm8k_200: /path/to/gsm8k_real_200.json
+  mmlu_stem_200: /path/to/mmlu_stem_200.json
+
+output:
+  # Base directory for experiment results
+  results_dir: ./results
