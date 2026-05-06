@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config (contains user-specific paths)
+configs/local_paths.yaml
+
+# Large data files (download separately)
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# SAC review outputs (contain API responses)
+sac_reviews_v*.json
